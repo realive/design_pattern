@@ -1,7 +1,7 @@
 package self.learn.ex.creative.singleton;
 
 /**
- * @author likun11
+ * @author realive
  * @version 2019/6/18
  */
 /** 急切初始化 用于开销小的示例创建 */

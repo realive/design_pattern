@@ -5,7 +5,7 @@ import com.alibaba.fastjson.JSON;
 import java.lang.reflect.Constructor;
 
 /**
- * @author likun11
+ * @author realive
  * @version 2019/6/18
  */
 public class QSingletonTest {

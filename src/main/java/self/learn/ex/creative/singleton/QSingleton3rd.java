@@ -1,7 +1,7 @@
 package self.learn.ex.creative.singleton;
 
 /**
- * @author likun11
+ * @author realive
  * @version 2019/6/18
  */
 public enum QSingleton3rd {
