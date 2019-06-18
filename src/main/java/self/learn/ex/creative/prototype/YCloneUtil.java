@@ -57,6 +57,9 @@ public class YCloneUtil implements Serializable{
     @Setter
     @ToString
     class Person implements Serializable {
+        public Person(){
+
+        }
         private static final long serialVersionUID = -5644807480459874733L;
         boolean woman;
         String name;
